@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/34c40f34-1dd4-41da-87ed-b5ee47af0015
  📦 Setup Instructions
 
   1.	Clone the repository
-  
+  https://github.com/prathamxz/Netflix-Clone.git
 
   2.	Navigate to the project folder
 
